@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=RicardoSalido95&color=5E33FF&style=plastic" alt="RicardoSalido95"/>
 </p>
 
-- 🔭 I’m currently working on [Orthodontic](https://www.orthodonticbrasil.com.br/)
-- 🌱 I’m currently learning [development in Laravel](https://github.com/RicardoSalido95/Magento2)
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/jhonathan-silva-367541171/)
+- 🔭 I’m currently working on [Tata Consultancy Services]([https://www.orthodonticbrasil.com.br/](https://www.tcs.com/))
+- 🌱 I’m currently learning [development in .Net](#)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/ricardo-salido-7788501b8/)
 
 <p align="left"> 
   <h3 align="left">My main stack:</h3>
