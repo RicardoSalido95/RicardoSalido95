@@ -11,11 +11,12 @@
 
 <p align="left"> 
   <h3 align="left">My main stack:</h3>
-  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="60" height="60"/> 
+  <a href="https://dotnet.microsoft.com/pt-br/" target="_blank"> 
+    <img src="https://camo.githubusercontent.com/d1c060eef161748ffe94ee1004fb9987437bc68fa40563857493d2a725238c68/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f746e6574636f72652f646f746e6574636f72652d6f726967696e616c2e737667" alt="php" 
+     width="60" height="60"/> 
   </a>
-  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
+  <a href="https://dotnet.microsoft.com/pt-br/" target="_blank"> 
+    <img src="https://camo.githubusercontent.com/2d9be2cdbe847aa58cefeb401833777b9330a5d91389066137fc1c84589eabfe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" alt="javascript" width="60" height="60"/> 
   </a>
 </p>
 <p align="left">
