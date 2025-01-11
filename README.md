@@ -8,8 +8,6 @@
 
 <p align="left">Meu nome é Ricardo, sou desenvolvedor e atualmente trabalhando com dotnet.</p>
 
-###
-
 <h2 align="left">Sobre min</h2>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RicardoSalido95&color=5E33FF&style=plastic" alt="RicardoSalido95"/>
